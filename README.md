@@ -2,6 +2,8 @@
 
 Senior design repositories for **Team Thomas**, advised by **Professor Anthony Thomas** at UC Davis.
 
+> **2026 ECE Outstanding Senior Design Project Award Winner**
+
 This organization documents our work for **EEC 193**, an independent team design project for seniors in Electrical or Computer Engineering. Our team was interested in digital logic, RTL/HDL development, FPGA implementation, object detection, image processing, and hardware acceleration.
 
 Our workflow was modeled after the structure of UC Davis **EEC 181A/B - Digital Systems Design Project**, a previous digital systems design course taught by **Professor Bevan Baas**:
@@ -10,7 +12,7 @@ https://www.ece.ucdavis.edu/~bbaas/181/
 
 The repositories are organized into two major phases: individual lab development and collaborative final-project development.
 
-## Featured repositories
+## Project Materials
 
 ### [`final-design`](../final-design)
 
@@ -25,6 +27,12 @@ This is the primary repository for the completed system.
 Final poster repository.
 
 This repo contains the final senior design poster, figures, diagrams, and presentation materials used to summarize the project architecture, implementation, results, and contributions.
+
+### [Final paper](../final-design/blob/main/docs/TeamThomas_FinalPaper.pdf)
+
+Final paper.
+
+A detailed technical report documenting the motivation, RTL architecture, image-processing pipeline, sparse matched filter detector, simulation strategy, hardware implementation, and results of our FPGA real-time object detection system.
 
 ## Repository layout
 
@@ -75,8 +83,8 @@ The goal was to explore whether a lightweight, template-based object detector co
 
 ## Team Thomas
 
-- `Yaseen Alkhameri`
-- `Justin Hsu`
-- `Ricardo Gonzales`
-- `Max Madrigal`
-- `Isidro Pulido`
+- Yaseen Alkhameri
+- Justin Hsu
+- Ricardo Gonzales
+- Max Madrigal
+- Isidro Pulido
