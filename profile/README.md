@@ -22,13 +22,13 @@ This repo contains the full FPGA implementation for **Real-Time Object Detection
 
 This is the primary repository for the completed system.
 
-### [`final-poster`]([https://github.com/EEC193-DigitalDesign/final-design/docs/EEC_193_Final_PosterPresentation.pdf](https://github.com/EEC193-DigitalDesign/final-design/blob/main/docs/EEC_193_Final_PosterPresentation.pdf))
+### [`final-poster`](https://github.com/EEC193-DigitalDesign/final-design/blob/main/docs/EEC_193_Final_PosterPresentation.pdf)
 
 Final poster repository.
 
 This repo contains the final senior design poster, figures, diagrams, and presentation materials used to summarize the project architecture, implementation, results, and contributions.
 
-### [`final-paper`]([https://github.com/EEC193-DigitalDesign/final-design/docs/TeamThomas_RealTimeObjectDetectionFPGA_2026.pdf](https://github.com/EEC193-DigitalDesign/final-design/blob/main/docs/TeamThomas_RealTimeObjectDetectionFPGA_2026.pdf))
+### [`final-paper`](https://github.com/EEC193-DigitalDesign/final-design/blob/main/docs/TeamThomas_RealTimeObjectDetectionFPGA_2026.pdf))
 
 Final paper.
 
