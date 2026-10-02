@@ -14,7 +14,7 @@ The repositories are organized into two major phases: individual lab development
 
 ## Project Materials
 
-### [`final-design`](../final-design)
+### [`final-design`](/final-design)
 
 Main senior design repository.
 
@@ -22,13 +22,13 @@ This repo contains the full FPGA implementation for **Real-Time Object Detection
 
 This is the primary repository for the completed system.
 
-### [`final-poster`](../final-poster)
+### [`final-poster`](/final-poster)
 
 Final poster repository.
 
 This repo contains the final senior design poster, figures, diagrams, and presentation materials used to summarize the project architecture, implementation, results, and contributions.
 
-### [Final paper](../final-design/blob/main/docs/TeamThomas_FinalPaper.pdf)
+### [Final paper](/final-design/blob/main/docs/TeamThomas_FinalPaper.pdf)
 
 Final paper.
 
